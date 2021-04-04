@@ -1,0 +1,6 @@
+Embedding file:
+https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+
+Kaggle dataset:
+https://www.kaggle.com/ywang311/twitter-sentiment/data
+
